@@ -1,0 +1,11 @@
+.rule-builder .rule-builder-header {
+  float: none;
+  clear: both;
+  margin: 20px auto;
+}
+
+.rule-builder .rule-builder-title {
+  width: 80%;
+  float: left;
+  padding: 5px;
+}
