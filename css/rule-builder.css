@@ -9,3 +9,29 @@
   float: left;
   padding: 5px;
 }
+
+.rule-builder .rule-builder-body {
+  clear: both;
+}
+
+.rule-builder .rule-builder-conjunction {
+  clear: both;
+}
+
+.rule-builder .rule-builder-rule {
+  clear:both;
+  margin: 20px 15px;
+  min-height: 60px; 
+}
+
+.rule-builder .rule-builder-predicate {
+  float: left;
+  margin: 5px;
+}
+
+.rule-builder .rule-builder-rule-option {
+  height: 30px;
+  width: 80%;
+  border: 1px solid red;
+  float: left;
+}
