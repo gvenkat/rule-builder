@@ -31,7 +31,13 @@
 
 .rule-builder .rule-builder-rule-option {
   height: 30px;
-  width: 80%;
+  width: 60%;
   border: 1px solid red;
+  float: left;
+}
+
+.rule-builder .rule-builder-remove {
+  margin: 10px; 
+  font-size: 1.4em;
   float: left;
 }
