@@ -19,7 +19,14 @@
 
     <script>
       $( function() {
-        $( '.rule-builder' ).rulebuilder();
+
+        var options = {
+          fields: [
+            { name: 'first_name', type: 'string' } 
+          ]
+        };
+
+        $( '.rule-builder' ).rulebuilder( options );
       } );
     </script>
 
