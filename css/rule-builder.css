@@ -41,3 +41,13 @@
   font-size: 1.4em;
   float: left;
 }
+
+.rule-builder .rule-field {
+  float: left;
+}
+
+.rule-builder .rule-operator {
+  float: left;
+}
+
+
